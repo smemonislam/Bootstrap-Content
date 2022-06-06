@@ -1,1 +1,9 @@
+img {
+    max-width: 100%;
+}
 
+.images-start img,
+.images-center img {
+    width: 412px;
+    height: auto;
+}
